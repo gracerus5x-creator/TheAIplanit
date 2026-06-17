@@ -13,7 +13,7 @@ cover:
   image: og-image.svg
   alt: The AI Planit
   relative: false
-  hidden: false
+  hidden: true
 disclosure: This post contains affiliate links. We may earn a commission at no extra
   cost to you.
 naira_engine:

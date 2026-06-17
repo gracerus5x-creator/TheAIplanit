@@ -29,25 +29,29 @@ cloudflareAnalyticsToken = ""
 [[params.homeCategories]]
 title = "AI Writing Tools"
 icon = "✍️"
-url = "/categories/ai-writing/"
+url = "/posts/"
+# Original: url = "/categories/ai-writing/"
 description = "Honest reviews of Claude, ChatGPT, Jasper, Notion AI and friends."
 
 [[params.homeCategories]]
 title = "Coding Assistants"
 icon = "⚙️"
-url = "/categories/ai-coding/"
+url = "/posts/"
+# Original: url = "/categories/ai-coding/"
 description = "Cursor, GitHub Copilot, Claude Code — what's worth your monthly $20."
 
 [[params.homeCategories]]
 title = "Productivity Stack"
 icon = "🚀"
-url = "/categories/productivity/"
+url = "/posts/"
+# Original: url = "/categories/productivity/"
 description = "SaaS that actually saves hours — and the ones that just look fancy."
 
 [[params.homeCategories]]
 title = "Comparisons"
 icon = "⚖️"
-url = "/categories/comparison/"
+url = "/posts/"
+# Original: url = "/categories/comparison/"
 description = "Head-to-head, real-use breakdowns. No vendor fluff."
 
 [params.homeInfoParams]
@@ -56,11 +60,11 @@ Content = "AI tools, honestly reviewed. Comparisons and buyer guides for builder
 
 [params.assets]
 disableHLJS = true
-favicon = "/favicon.svg"
-favicon16x16 = "/favicon.svg"
-favicon32x32 = "/favicon.svg"
-apple_touch_icon = "/favicon.svg"
-safari_pinned_tab = "/favicon.svg"
+favicon = "favicon.svg"
+favicon16x16 = "favicon.svg"
+favicon32x32 = "favicon.svg"
+apple_touch_icon = "favicon.svg"
+safari_pinned_tab = "favicon.svg"
 
 [params.label]
 text = "The AI Planit"
