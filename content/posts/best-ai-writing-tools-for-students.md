@@ -63,13 +63,13 @@ Claude is the tool I keep coming back to when a writing task actually requires t
 For students, Sonnet 4.X hits the sweet spot. Claude's Free tier exists, but serious use requires a paid plan — [check current pricing at Anthropic's pricing page](https://www.anthropic.com/pricing) before committing, as tiers include Free, Pro, Max, Team, and Enterprise.
 
 **Best for:** Essays, research synthesis, argument development, coding help
-**Affiliate link:** [Try Claude](AFFILIATE_LINK_PLACEHOLDER:impact:claude)
+**Affiliate link:** [Try Claude](https://claude.ai/)
 
 ---
 
 ### 2. Grammarly — Best for Grammar, Tone, and Academic Polish
 
-[Grammarly](AFFILIATE_LINK_PLACEHOLDER:impact:grammarly) remains the category leader for sentence-level writing feedback. It's not an idea generator — it's an editor. For ESL students or anyone writing in a second language, it's still the most reliable inline grammar coach available.
+[Grammarly](https://www.grammarly.com/) remains the category leader for sentence-level writing feedback. It's not an idea generator — it's an editor. For ESL students or anyone writing in a second language, it's still the most reliable inline grammar coach available.
 
 The 2026 version includes AI-assisted rewrites, tone detection, and plagiarism checking (on paid tiers). It integrates with Google Docs, Microsoft Word, and most browsers — which matters when you're switching between a Canvas portal and a Google Doc at midnight.
 
@@ -84,7 +84,7 @@ Notion AI is useful for students who already live inside Notion for class notes,
 
 **Important caveat:** Notion AI is **no longer bundled in the Notion Plus tier** as of 2025. It is now a separate add-on or included only in higher tiers. Do not assume you get AI features just by subscribing to Plus. [Verify the current bundling and pricing at notion.com/pricing](https://www.notion.com/pricing) before buying.
 
-[Notion AI](AFFILIATE_LINK_PLACEHOLDER:impact:notion) is still worth it if you're already in the Notion ecosystem — but don't pay for it as a standalone AI writing tool. It's organizational infrastructure with AI on top, not a primary drafting engine.
+[Notion AI](https://www.notion.so/) is still worth it if you're already in the Notion ecosystem — but don't pay for it as a standalone AI writing tool. It's organizational infrastructure with AI on top, not a primary drafting engine.
 
 **Best for:** Study organization, note summarization, project planning
 
@@ -92,7 +92,7 @@ Notion AI is useful for students who already live inside Notion for class notes,
 
 ### 4. Jasper — Best for Students With Side Hustles or Freelance Work
 
-[Jasper](AFFILIATE_LINK_PLACEHOLDER:impact:jasper) is primarily a marketing copy tool, but students running side freelance gigs — social content, blog writing, client emails — will find its templates genuinely useful. It's overkill for academic writing and priced accordingly.
+[Jasper](https://www.jasper.ai/) is primarily a marketing copy tool, but students running side freelance gigs — social content, blog writing, client emails — will find its templates genuinely useful. It's overkill for academic writing and priced accordingly.
 
 **One important update:** The Jasper × Surfer SEO direct integration has ended as of 2026. If you were relying on that workflow for SEO-optimized content, you now need separate subscriptions to both platforms. [Verify current Jasper pricing and integrations at jasper.ai/pricing](https://www.jasper.ai/pricing).
 
@@ -113,13 +113,13 @@ ChatGPT remains the most recognized AI tool globally, and for good reason — it
 
 ### 6. Semrush — Best for Students Studying Marketing or SEO
 
-[Semrush](AFFILIATE_LINK_PLACEHOLDER:shareasale:semrush) isn't an AI writing tool in the traditional sense, but marketing and communications students using it for keyword research, competitive analysis, and content briefs will find it invaluable for applied coursework and internship projects. [Verify student or trial pricing at semrush.com/prices](https://www.semrush.com/prices/).
+[Semrush](https://www.semrush.com/) isn't an AI writing tool in the traditional sense, but marketing and communications students using it for keyword research, competitive analysis, and content briefs will find it invaluable for applied coursework and internship projects. [Verify student or trial pricing at semrush.com/prices](https://www.semrush.com/prices/).
 
 ---
 
 ### 7. Teachable (Honorable Mention) — For Students Who Teach
 
-If you're a student who tutors or creates course content on the side, [Teachable](AFFILIATE_LINK_PLACEHOLDER:shareasale:teachable) pairs well with AI writing tools for building lesson materials. Not a writing tool itself, but a relevant platform in the student-creator stack.
+If you're a student who tutors or creates course content on the side, [Teachable](https://teachable.com/) pairs well with AI writing tools for building lesson materials. Not a writing tool itself, but a relevant platform in the student-creator stack.
 
 ---
 
@@ -153,7 +153,7 @@ According to [emailvendorselection.com's roundup of AI writing tools](https://ww
 
 The best AI writing tool for students is the one you'll actually use every day. Start with **Claude** or **ChatGPT** (both have free tiers) and layer in **Grammarly** for polish. Add **Notion AI** only if you're already a Notion user. Save Jasper and Semrush for when your side hustle or coursework demands them.
 
-**Ready to start?** [Try Claude free](AFFILIATE_LINK_PLACEHOLDER:impact:claude) and run your next essay draft through it — then decide if the upgrade is worth it for your workload.
+**Ready to start?** [Try Claude free](https://claude.ai/) and run your next essay draft through it — then decide if the upgrade is worth it for your workload.
 
 ---
 

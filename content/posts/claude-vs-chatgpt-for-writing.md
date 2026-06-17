@@ -92,7 +92,7 @@ For writers who can't afford fact-checking every sentence, this is a meaningful 
 
 The AI writing market in 2026 has matured — neither Claude nor ChatGPT is the whole picture. Most professional writers are running a stack. Here's how the leading add-on tools compare:
 
-### Option 1: [Grammarly](AFFILIATE_LINK_PLACEHOLDER:impact:grammarly)
+### Option 1: [Grammarly](https://www.grammarly.com/)
 
 **Best for:** Writers who want grammar, tone, and clarity checks layered on top of AI-generated drafts.
 
@@ -107,7 +107,7 @@ The AI writing market in 2026 has matured — neither Claude nor ChatGPT is the 
 
 **Verdict:** Works equally well regardless of whether your base draft came from Claude or ChatGPT.
 
-### Option 2: [Jasper](AFFILIATE_LINK_PLACEHOLDER:impact:jasper)
+### Option 2: [Jasper](https://www.jasper.ai/)
 
 **Best for:** Marketing teams running structured content campaigns with templates and brand voice controls.
 
@@ -123,7 +123,7 @@ The AI writing market in 2026 has matured — neither Claude nor ChatGPT is the 
 
 **Verdict:** Strong for teams needing brand consistency at scale. Solo writers will likely find the base Claude or ChatGPT subscription more cost-effective.
 
-### Option 3: [Notion](AFFILIATE_LINK_PLACEHOLDER:impact:notion) + AI Add-On
+### Option 3: [Notion](https://www.notion.so/) + AI Add-On
 
 **Best for:** Writers who want a unified workspace with AI built in for drafting, organizing, and managing editorial calendars.
 
@@ -160,7 +160,7 @@ For writing specifically, Claude holds the edge in 2026 — particularly for any
 
 ChatGPT is not a bad choice — it's a fast, capable tool with a wider ecosystem. But if writing quality is your primary criterion, Claude is the more dependable instrument.
 
-The smartest move for most professional writers: **use Claude as your primary drafting engine, layer [Grammarly](AFFILIATE_LINK_PLACEHOLDER:impact:grammarly) for editing passes, and keep ChatGPT accessible for brainstorming and short-copy variation**.
+The smartest move for most professional writers: **use Claude as your primary drafting engine, layer [Grammarly](https://www.grammarly.com/) for editing passes, and keep ChatGPT accessible for brainstorming and short-copy variation**.
 
 ---
 
