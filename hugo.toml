@@ -29,28 +29,28 @@ cloudflareAnalyticsToken = ""
 [[params.homeCategories]]
 title = "AI Writing Tools"
 icon = "✍️"
-url = "/posts/"
+url = "posts/"
 # Original: url = "/categories/ai-writing/"
 description = "Honest reviews of Claude, ChatGPT, Jasper, Notion AI and friends."
 
 [[params.homeCategories]]
 title = "Coding Assistants"
 icon = "⚙️"
-url = "/posts/"
+url = "posts/"
 # Original: url = "/categories/ai-coding/"
 description = "Cursor, GitHub Copilot, Claude Code — what's worth your monthly $20."
 
 [[params.homeCategories]]
 title = "Productivity Stack"
 icon = "🚀"
-url = "/posts/"
+url = "posts/"
 # Original: url = "/categories/productivity/"
 description = "SaaS that actually saves hours — and the ones that just look fancy."
 
 [[params.homeCategories]]
 title = "Comparisons"
 icon = "⚖️"
-url = "/posts/"
+url = "posts/"
 # Original: url = "/categories/comparison/"
 description = "Head-to-head, real-use breakdowns. No vendor fluff."
 
@@ -87,7 +87,7 @@ endLevel = 4
 [[menu.main]]
 identifier = "posts"
 name = "Posts"
-url = "/posts/"
+url = "posts/"
 weight = 10
 
 [[menu.main]]
