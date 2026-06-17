@@ -1,5 +1,5 @@
 baseURL = "https://gracerus5x-creator.github.io/TheAIplanit/"
-title = "The AI Plan-It"
+title = "The AI Planit"
 languageCode = "en-us"
 theme = "PaperMod"
 
@@ -9,7 +9,7 @@ buildFuture = false
 
 [params]
 description = "AI tools, honestly reviewed. Comparisons and buyer guides for builders, marketers, and operators."
-author = "The AI Plan-It"
+author = "The AI Planit"
 defaultTheme = "auto"
 ShowReadingTime = true
 ShowShareButtons = true
@@ -19,12 +19,59 @@ ShowToc = true
 ShowBreadCrumbs = true
 disableScrollToTop = false
 
+# Analytics — leave blank until you have the IDs; the partial gracefully no-ops.
+# GA4: https://analytics.google.com → Admin → Create Property → web stream → copy Measurement ID (G-XXXXXXX)
+# Cloudflare Web Analytics: https://dash.cloudflare.com → Analytics & Logs → Web Analytics → Add a site → copy token
+googleAnalytics = ""
+cloudflareAnalyticsToken = ""
+
+# Home category cards (shown under the hero on /)
+[[params.homeCategories]]
+title = "AI Writing Tools"
+icon = "✍️"
+url = "/categories/ai-writing/"
+description = "Honest reviews of Claude, ChatGPT, Jasper, Notion AI and friends."
+
+[[params.homeCategories]]
+title = "Coding Assistants"
+icon = "⚙️"
+url = "/categories/ai-coding/"
+description = "Cursor, GitHub Copilot, Claude Code — what's worth your monthly $20."
+
+[[params.homeCategories]]
+title = "Productivity Stack"
+icon = "🚀"
+url = "/categories/productivity/"
+description = "SaaS that actually saves hours — and the ones that just look fancy."
+
+[[params.homeCategories]]
+title = "Comparisons"
+icon = "⚖️"
+url = "/categories/comparison/"
+description = "Head-to-head, real-use breakdowns. No vendor fluff."
+
 [params.homeInfoParams]
-Title = "The AI Plan-It"
+Title = "The AI Planit"
 Content = "AI tools, honestly reviewed. Comparisons and buyer guides for builders, marketers, and operators."
 
 [params.assets]
 disableHLJS = true
+favicon = "/favicon.svg"
+favicon16x16 = "/favicon.svg"
+favicon32x32 = "/favicon.svg"
+apple_touch_icon = "/favicon.svg"
+safari_pinned_tab = "/favicon.svg"
+
+[params.label]
+text = "The AI Planit"
+icon = "/logo.svg"
+iconHeight = 40
+
+[params.cover]
+image = "/og-image.svg"
+hidden = false
+hiddenInList = false
+hiddenInSingle = false
 
 [markup.goldmark.renderer]
 unsafe = true
@@ -38,3 +85,27 @@ identifier = "posts"
 name = "Posts"
 url = "/posts/"
 weight = 10
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 20
+
+[[menu.main]]
+identifier = "contact"
+name = "Contact"
+url = "/contact/"
+weight = 30
+
+[[menu.main]]
+identifier = "disclosure"
+name = "Disclosure"
+url = "/disclosure/"
+weight = 40
+
+[[menu.main]]
+identifier = "privacy"
+name = "Privacy"
+url = "/privacy/"
+weight = 50
