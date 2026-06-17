@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 160" role="img" aria-label="The AI Planit — planet concept">
+  <defs>
+    <radialGradient id="planet" cx="35%" cy="35%" r="65%">
+      <stop offset="0%" stop-color="#4D94FF"/>
+      <stop offset="60%" stop-color="#0066FF"/>
+      <stop offset="100%" stop-color="#0033AA"/>
+    </radialGradient>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0066FF" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#9CC9FF" stop-opacity="0.4"/>
+    </linearGradient>
+  </defs>
+  <!-- Planet with orbital ring -->
+  <g transform="translate(20, 80)">
+    <!-- Orbit ring (behind planet, tilted) -->
+    <ellipse cx="55" cy="0" rx="65" ry="14" fill="none" stroke="url(#ring)" stroke-width="3.5"
+             transform="rotate(-22 55 0)"/>
+    <!-- Planet body -->
+    <circle cx="55" cy="0" r="40" fill="url(#planet)"/>
+    <!-- Surface highlight (suggests continents/atmosphere) -->
+    <ellipse cx="42" cy="-8" rx="16" ry="7" fill="#FFFFFF" opacity="0.25"/>
+    <ellipse cx="65" cy="12" rx="10" ry="4" fill="#FFFFFF" opacity="0.15"/>
+    <!-- Orbit ring (in front of planet, tilted) -->
+    <path d="M -10 -4 Q 55 -22 120 4" fill="none" stroke="url(#ring)" stroke-width="3.5"
+          transform="rotate(-22 55 0)" stroke-linecap="round"/>
+    <!-- Tiny satellite/data point on orbit -->
+    <circle cx="115" cy="-2" r="3" fill="#0066FF" transform="rotate(-22 55 0)"/>
+  </g>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="155" y="78" font-size="40" font-weight="700" fill="#0A0A0A">The AI</text>
+    <text x="155" y="120" font-size="44" font-weight="800" fill="#0066FF" letter-spacing="-1">Planit</text>
+  </g>
+</svg>
