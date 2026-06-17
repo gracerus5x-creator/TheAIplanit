@@ -76,8 +76,6 @@ image = "og-image.svg"
 hidden = true
 hiddenInList = true
 hiddenInSingle = true
-hiddenInList = false
-hiddenInSingle = false
 
 [markup.goldmark.renderer]
 unsafe = true
